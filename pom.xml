@@ -9,5 +9,6 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>small-spring-step-01</module>
+    <module>small-spring-step-02</module>
   </modules>
 </project>
